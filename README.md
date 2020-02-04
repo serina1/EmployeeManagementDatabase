@@ -5,3 +5,5 @@ The Employee Management Database allows a user to access the database to retriev
 
 Clone the repo
 Run the index.js file in GITBash and follow through.
+
+(addemployee function - doesnt work still in working on this if you can please advise on what is wrong as i've test and cant see this)
